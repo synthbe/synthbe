@@ -1,10 +1,8 @@
-### Hi there 👋. 
-  
-  I am just a regular dude
+### I am just a regular dude. 
 
-- 🌱 I’m currently studying on Universidade Federal do Rio Grande do Norte (UFRN)
-- 🤔 I’m looking for help with physics/astrophysics researches 
-- 😄 Pronouns: He/Him/His (ENG) | Ele/Dele (PTBR)
+- I’m currently studying on Universidade Federal do Rio Grande do Norte (UFRN)
+- I’m looking for help with physics/astrophysics researches 
+- Pronouns: He/Him/His (ENG) | Ele/Dele (PTBR)
 
 <div>
   <a href="https://beacons.ai/synthbe">
